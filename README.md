@@ -1,2 +1,2 @@
 # FindOddNumber
-A program that finds all odd numbers untill user entry a negative number and add them 
+a program that adds up all odd numbers until the user enters a negative number
